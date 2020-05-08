@@ -1,0 +1,9 @@
+green color: #427900
+blue color: #316DC3
+
+icons sizes: 40*40
+
+doing pictures: 70*70
+
+mission: 32 * 32
+fa-angle-up
